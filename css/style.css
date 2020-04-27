@@ -191,7 +191,7 @@ body {
     width: 32px;
     height: 32px;
     border: none;
-    background: transparent url("img/left-arrow.svg") no-repeat center;
+    background: transparent url("/img/left-arrow.svg") no-repeat center;
     margin-right: 15px;
 }
 .slider__nav--right {
