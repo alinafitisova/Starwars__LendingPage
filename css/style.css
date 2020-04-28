@@ -128,6 +128,7 @@ body {
     padding: 60px 0;
 }
 .episodes__title {
+    font-family: 'Roboto-Bold';
     font-size: 18px;
     line-height: 150%;
     margin-bottom: 24px;
